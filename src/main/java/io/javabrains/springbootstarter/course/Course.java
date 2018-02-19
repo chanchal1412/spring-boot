@@ -10,6 +10,7 @@ import org.hibernate.annotations.OnDeleteAction;
 
 import io.javabrains.springbootstarter.topic.Topic;
 
+//This is a comment
 @Entity
 public class Course {
 	
